@@ -12,7 +12,7 @@
 
 ---
 
-You can contact me by [mail](mailto:bohdan.sivak.com)
+You can contact me by [mail](mailto:bohdan.sivak@gmail.com)
 
 
 
