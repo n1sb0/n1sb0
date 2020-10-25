@@ -19,5 +19,5 @@
 [youtube]: https://www.youtube.com/channel/UCBNfKqXTbyZUR1SYRz-f45g?view_as=subscriber
 [instagram]: https://instagram.com/n1sb0
 [linkedin]: https://www.linkedin.com/in/bohdan-sivak-b630921b2/
-[gmail]: (mailto:bohdan.sivak@gmail.com)
+[gmail]: mailto: bohdan.sivak@gmail.com
 
